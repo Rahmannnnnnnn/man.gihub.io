@@ -1,1 +1,1 @@
-# man.gihub.io
+# man.github.io
